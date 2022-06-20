@@ -15,8 +15,8 @@
 </div>
 
 ### :books: Estou aprendendo
+- `OAuth2`
 - `SOLID`
-- `Design Patterns`
 
 ### :mailbox: Contato:
 <a href="https://www.linkedin.com/in/edson-mendes-6ab495143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
