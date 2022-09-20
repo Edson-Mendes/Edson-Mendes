@@ -2,7 +2,7 @@
 
 ### :speech_balloon: Sobre mim:
 - :computer: Desenvolvedor Backend Java
-- :video_game: Gosto de animes, séries, gatos e de cozinhar
+- :video_game: Gosto de animes, séries, exercitar e de cozinhar
 
 ### :hammer_and_wrench: Ferramentas e Tecnologias
 ![Badge Java](https://img.shields.io/badge/java8+-D32323.svg?&style=for-the-badge&logo=java&logoColor=white)
