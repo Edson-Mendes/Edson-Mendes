@@ -6,14 +6,14 @@
 
 ### :hammer_and_wrench: Ferramentas e Tecnologias
 ![Badge Java](https://img.shields.io/badge/java8+-D32323.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Badge Java](https://img.shields.io/badge/Spring-6db33f.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![Badge Java](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Badge Java](https://img.shields.io/badge/CSS3-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Badge Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Badge HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![Badge CSS3](https://img.shields.io/badge/CSS3-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
-![Badge Java](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Badge Java](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Badge MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![Badge PostgreSQL](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Badge Java](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
+![Badge JUnit](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 ![Badge Postman](https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![Badge Swagger](https://img.shields.io/badge/swagger-85ea2d.svg?&style=for-the-badge&logo=swagger&logoColor=white)
 ![Badge Docker](https://img.shields.io/badge/docker-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
