@@ -21,8 +21,9 @@
 ![Badge VSCode](https://img.shields.io/badge/VSCode-007acc.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Badge SOLID](https://img.shields.io/badge/SOLID-1847da.svg?&style=for-the-badge)
 
-### :books: Estou aprendendo
+### :books: Estou estudando
 - `Arquitetura de Microservices`
+- `Solucionando problemas do LeetCode`
 
 ### :mailbox: Contato:
 <a href="https://www.linkedin.com/in/edson-mendes-6ab495143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
