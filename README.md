@@ -14,12 +14,16 @@
 ![Badge PostgreSQL](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Badge JUnit](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
+![Badge Mockito](https://img.shields.io/badge/mockito-6db33f.svg?&style=for-the-badge&logo=mockito&logoColor=white)
+![Badge Testcontainers](https://img.shields.io/badge/Testcontainers-0c94aa.svg?&style=for-the-badge&logo=Testcontainers&logoColor=white)
+
 ![Badge Postman](https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=white)
 ![Badge Swagger](https://img.shields.io/badge/swagger-85ea2d.svg?&style=for-the-badge&logo=swagger&logoColor=white)
 ![Badge Docker](https://img.shields.io/badge/docker-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
+![Badge Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?&style=for-the-badge&logo=Apachekafka&logoColor=white)
+
 ![Badge IntelliJ](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Badge VSCode](https://img.shields.io/badge/VSCode-007acc.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Badge SOLID](https://img.shields.io/badge/SOLID-1847da.svg?&style=for-the-badge)
 
 ### :books: Estou estudando
 - `Arquitetura de Microservices`
