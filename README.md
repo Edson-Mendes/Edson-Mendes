@@ -26,7 +26,8 @@
 ![Badge VSCode](https://img.shields.io/badge/VSCode-007acc.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### :books: Estou estudando
-- `Arquitetura de Microservices`
+- `Spring Webflux`
+- `Linguagem TypeScript`
 - `Solucionando problemas do LeetCode`
 
 ### :mailbox: Contato:
