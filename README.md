@@ -6,7 +6,11 @@
 
 ### :hammer_and_wrench: Ferramentas e Tecnologias
 ![Badge Java](https://img.shields.io/badge/java8+-D32323.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Badge TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+
 ![Badge Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Badge Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+
 ![Badge HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![Badge CSS3](https://img.shields.io/badge/CSS3-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -26,8 +30,8 @@
 ![Badge VSCode](https://img.shields.io/badge/VSCode-007acc.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### :books: Estou estudando
-- `Spring Webflux`
-- `Linguagem TypeScript`
+- `Microsserviços`
+- `Angular`
 - `Solucionando problemas do LeetCode`
 
 ### :mailbox: Contato:
