@@ -16,6 +16,7 @@
 
 ![Badge MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Badge PostgreSQL](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Badge MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Badge JUnit](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 ![Badge Mockito](https://img.shields.io/badge/mockito-6db33f.svg?&style=for-the-badge&logo=mockito&logoColor=white)
@@ -30,7 +31,7 @@
 ![Badge VSCode](https://img.shields.io/badge/VSCode-007acc.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### :books: Estou estudando
-- `Microsserviços`
+- `MongoDB`
 - `Angular`
 - `Solucionando problemas do LeetCode`
 
