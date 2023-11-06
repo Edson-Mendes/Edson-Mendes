@@ -5,33 +5,37 @@
 - :video_game: Gosto de animes, séries, exercitar e de cozinhar
 
 ### :hammer_and_wrench: Ferramentas e Tecnologias
-![Badge Java](https://img.shields.io/badge/java8+-D32323.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Badge TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)
+[![Badge Java](https://img.shields.io/badge/java-D32323.svg?&style=for-the-badge&logo=openjdk&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![Badge TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-![Badge Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=for-the-badge&logo=spring&logoColor=white)
-![Badge Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)
+[![Badge HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![Badge CSS3](https://img.shields.io/badge/CSS3-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
-![Badge HTML5](https://img.shields.io/badge/HTML5-e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![Badge CSS3](https://img.shields.io/badge/CSS3-1572b6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+[![Badge Spring](https://img.shields.io/badge/Spring-6db33f.svg?&style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+[![Badge Angular](https://img.shields.io/badge/Angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 
-![Badge MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Badge PostgreSQL](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
-![Badge MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+[![Badge MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Badge PostgreSQL](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Badge MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
-![Badge JUnit](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
-![Badge Mockito](https://img.shields.io/badge/mockito-6db33f.svg?&style=for-the-badge&logo=mockito&logoColor=white)
-![Badge Testcontainers](https://img.shields.io/badge/Testcontainers-0c94aa.svg?&style=for-the-badge&logo=Testcontainers&logoColor=white)
+[![Badge JUnit](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
+[![Badge Mockito](https://img.shields.io/badge/mockito-6db33f.svg?&style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
+[![Badge Testcontainers](https://img.shields.io/badge/Testcontainers-0c94aa.svg?&style=for-the-badge&logo=Testcontainers&logoColor=white)](https://testcontainers.com/)
+[![Badge Postman](https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-![Badge Postman](https://img.shields.io/badge/postman-ff6c37.svg?&style=for-the-badge&logo=postman&logoColor=white)
-![Badge Swagger](https://img.shields.io/badge/swagger-85ea2d.svg?&style=for-the-badge&logo=swagger&logoColor=white)
-![Badge Docker](https://img.shields.io/badge/docker-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Badge Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000.svg?&style=for-the-badge&logo=Apachekafka&logoColor=white)
+[![Badge Swagger](https://img.shields.io/badge/swagger-85ea2d.svg?&style=for-the-badge&logo=swagger&logoColor=white)](https://swagger.io/)
+[![Badge OpenAPI](https://img.shields.io/badge/openapi-6BA539.svg?&style=for-the-badge&logo=openapiinitiative&logoColor=white)](https://www.openapis.org/)
 
-![Badge IntelliJ](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![Badge VSCode](https://img.shields.io/badge/VSCode-007acc.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Badge Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?&style=for-the-badge&logo=Apachekafka&logoColor=white)](https://kafka.apache.org/)
+[![Badge RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
+
+[![Badge Docker](https://img.shields.io/badge/docker-2496ed.svg?&style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+[![Badge IntelliJ](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/pt-br/idea/)
+[![Badge VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ### :books: Estou estudando
-- `MongoDB`
+- `RabbitMQ`
 - `Angular`
 - `Solucionando problemas do LeetCode`
 
