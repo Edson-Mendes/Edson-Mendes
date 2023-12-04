@@ -36,11 +36,10 @@
 
 ### :books: Estou estudando
 - `RabbitMQ`
-- `Angular`
 - `Solucionando problemas do LeetCode`
 
 ### :mailbox: Contato:
-<a href="https://www.linkedin.com/in/edson-mendes-6ab495143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/edsonmendesdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:edson.luiz.mendes@hotmail.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white&color=blue" target="_blank"></a>
 <br><br>
 <div>
