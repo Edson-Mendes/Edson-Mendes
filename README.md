@@ -17,6 +17,7 @@
 [![Badge MySQL](https://img.shields.io/badge/MySQL-4479a1.svg?&style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Badge PostgreSQL](https://img.shields.io/badge/postgresql-4169e1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Badge MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Badge Redis](https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 [![Badge JUnit](https://img.shields.io/badge/junit5-25a162.svg?&style=for-the-badge&logo=junit5&logoColor=white)](https://junit.org/junit5/)
 [![Badge Mockito](https://img.shields.io/badge/mockito-6db33f.svg?&style=for-the-badge&logo=mockito&logoColor=white)](https://site.mockito.org/)
@@ -35,7 +36,6 @@
 [![Badge VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 ### :books: Estou estudando
-- `RabbitMQ`
 - `Solucionando problemas do LeetCode`
 
 ### :mailbox: Contato:
